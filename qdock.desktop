@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=QDock
+Comment=macOS-style dock for Linux
+Exec=qdock
+Icon=start-here
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true

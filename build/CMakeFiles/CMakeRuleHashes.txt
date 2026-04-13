@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+1cd16cc2492e09c9811e1f5d7e3aee9f CMakeFiles/qdock_autogen
+1cd16cc2492e09c9811e1f5d7e3aee9f CMakeFiles/qdock_autogen_timestamp_deps
+c756c575baf2a0490a5c64b59dc5f980 qdock_autogen/timestamp
